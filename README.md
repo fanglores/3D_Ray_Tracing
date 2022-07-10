@@ -10,6 +10,6 @@
   - [ ] Make 3D objects light
   - [ ] Debug :)  
    
-   
- Inspired by Onigiri
+       
+ Inspired by Onigiri  
   © fanglores, Moscow, 2022
